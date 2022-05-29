@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aymen Hamrouni's Home Page"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
