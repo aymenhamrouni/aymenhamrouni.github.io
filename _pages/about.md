@@ -19,10 +19,10 @@ Aymen Hamrouni (Student Member, IEEE) was born in Sfax, Tunisia. He received his
 
 <li><span style="color:red">New!!</span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publications in  IEEE INTERNATIONAL MIDWEST SYMPOSIUM ON CIRCUITS AND SYSTEMS (MWSCAS 2022)!</li>
 
-<ul><li><span style="color:red">New!!</span>2022.05. Our paper “V3Trans-Crowd: a Video-Based Visual Transformer for Crowd Management Monitoring”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
+<li><span style="color:red">New!!</span>2022.05. Our paper “V3Trans-Crowd: a Video-Based Visual Transformer for Crowd Management Monitoring”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
 
   
- </li><li>2021.09. Reviewer for IEEE Internet-of-Things Journal, IEEE Communications Letters</li><li>
+<li>2021.09. Reviewer for IEEE Internet-of-Things Journal, IEEE Communications Letters</li>
   
 </li><li><strong>2021.08. Glad to be a MS/PhD student at Innovative Technologies Laboratories Lab led by Prof. <a href="https://yehiamassoud.com/">Yehia Massoud</a>!</strong></li><li>
     
