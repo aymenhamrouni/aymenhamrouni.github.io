@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<p>Full CV is available <a href="https://nbviewer.org/github/aymenhamrouni/aymenhamrouni.github.io/blob/master/files/Aymen_CV.pdf">here</a>. Last update: 2022 Dec.</p>
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
