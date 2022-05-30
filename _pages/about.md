@@ -17,23 +17,23 @@ Aymen Hamrouni (Student Member, IEEE) was born in Sfax, Tunisia. He received his
 
 <h1 id="whats-new"><span style="color:red">What’s New</span></h1>
 
-<li><span style="color:red">New!!</span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publications in  IEEE INTERNATIONAL MIDWEST SYMPOSIUM ON CIRCUITS AND SYSTEMS (MWSCAS 2022)!</li>
+<li><span style="color:red">New!!</span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publications in  IEEE INTERNATIONAL MIDWEST SYMPOSIUM ON CIRCUITS AND SYSTEMS (MWSCAS 2022)!
 
-<li><span style="color:red">New!!</span>2022.05. Our paper “V3Trans-Crowd: a Video-Based Visual Transformer for Crowd Management Monitoring”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
+<li><span style="color:red">New!!</span>2022.05. Our paper “V3Trans-Crowd: a Video-Based Visual Transformer for Crowd Management Monitoring”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!
 
   
-<li>2021.09. Reviewer for IEEE Internet-of-Things Journal, IEEE Communications Letters</li>
+<li>2021.09. Reviewer for IEEE Internet-of-Things Journal, IEEE Communications Letters
   
-<li><strong>2021.08. Glad to be a MS/PhD student at Innovative Technologies Laboratories Lab led by Prof. <a href="https://yehiamassoud.com/">Yehia Massoud</a>!</strong></li>
+<li><strong>2021.08. Glad to be a MS/PhD student at Innovative Technologies Laboratories Lab led by Prof. <a href="https://yehiamassoud.com/">Yehia Massoud</a>!</strong>
     
-<li>2021.06. Our paper “Evolutionary Algorithms for 5G Multi-Tier Radio Access Network Planning”  was accepted for publications in  IEEE Access!</li>
+<li>2021.06. Our paper “Evolutionary Algorithms for 5G Multi-Tier Radio Access Network Planning”  was accepted for publications in  IEEE Access!
   
-<li>2021.04. Our paper “Towards Collaborative Mobile Crowdsourcing”  was accepted for publications in  IEEE Internet-of-Things Magazine (IoT-M)!</li>
+<li>2021.04. Our paper “Towards Collaborative Mobile Crowdsourcing”  was accepted for publications in  IEEE Internet-of-Things Magazine (IoT-M)!
   
- <li>2021.02. Our paper “Low-Complexity Recruitment for Collaborative Mobile Crowdsourcing Using Graph Neural Networks”  was accepted for publications in  IEEE Internet-of-Things (IoT)!</li>
+ <li>2021.02. Our paper “Low-Complexity Recruitment for Collaborative Mobile Crowdsourcing Using Graph Neural Networks”  was accepted for publications in  IEEE Internet-of-Things (IoT)!
  
    
-<li>2020.10. Our paper “An Evolutionary Algorithm for Collaborative Mobile Crowdsourcing Recruitment in Socially Connected IoT Systems”  was accepted for publications in  2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)!</li>
+<li>2020.10. Our paper “An Evolutionary Algorithm for Collaborative Mobile Crowdsourcing Recruitment in Socially Connected IoT Systems”  was accepted for publications in  2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)!
  
 <li>2020.09. Reviewer for IEEE Access, IEEE Transactions on Computational Social Systems</li>
    
