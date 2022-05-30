@@ -14,49 +14,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. (Diplome D'ingenieur) in Telecommunicationm Higher School of Communication of Tunis (SUP'COM), 2016-2020
+* M.S. in Electrical and Computer Enginnering, King Abdullah University of Science and Technology, 2021-2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec. 2020-Present: Research Scientist at Stevens intitute of Technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dec. 2019-Nov. 2020: Research Engineer at Stevens intitute of Technology
+  * Working on designing low-complexity meta-heuristic algorithms for team formation and recruitment in Collaborative Mobile Crowdsoucing for Social IoT systems.
+  * Writing and publishing scientific papers.
+  * Keywords: Graph embedding, Particle Swarm Optimization, Genetic algorithm, Machine learning.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Feb. 2019- Dec. 2019: Research Intern at Stevens intitute of Technology
+  * Applied optimization, graph theory, and deep learning techniques to enable Spatial and Collaborative Mobile Crowdsourcing frameworks in smart cit
+  applications.
+  * Published scientific papers/ 2 journal papers and 4 conference papers
+  * Keywords: Mixed/Integer Linear Programming, Local search, Metaheuristic, Bipartite Graph, Dynamic Programming, Greedy Algorithms, Constrained Programming.
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
