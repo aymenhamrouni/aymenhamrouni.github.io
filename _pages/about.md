@@ -17,4 +17,51 @@ Aymen Hamrouni (Student Member, IEEE) was born in Sfax, Tunisia. He received his
 
 <h1 id="whats-new"><span style="color:red">What’s New</span></h1>
 
-<ul><li>2022.05. Our paper “EF-BV: A Unified Theory of Error Feedback and Variance Reduction Mechanisms for Biased and Unbiased Compression in Distributed Optimization” is available on <a href="https://arxiv.org/abs/2205.04180">arXiv</a>！</li><li>2022.04. Our paper “Creative Walk Adversarial Networks: Novel Art Generation with Probabilistic Random Walk Deviation from Style Norms” has been accepted by ICCC 2022!</li><li>2022.04. Our short paper “Language-Guided Imaginative Walks: Generative Random Walk Deviation Loss for Unseen Class Recognition using Text” has been accepted by <a href="https://sites.google.com/view/l3d-ivu/overview?authuser=0">CVPR22 L3D-IVU Workshop</a>!</li><li><span style="color:red">New!!</span> 2022.03. HGR-Net for large-scale zero-shot learning is available on <a href="https://arxiv.org/abs/2203.01386">arXiv</a></li><li>2022.03. Our paper <a href="https://arxiv.org/abs/2102.10407">VisualGPT</a> is accepted by CVPR22! <a href="https://github.com/Vision-CAIR/VisualGPT">code</a> has been released.</li><li>2022.01-05. Reviewer for ECCV22, CVPR22, ICML22, IJCV, TIP.</li><li>2022.02. Teaching Assistant for CS283: Deep Generative Modeling.</li><li><span style="color:red">New!!</span> 2021.12. DACZSL is available on <a href="https://arxiv.org/abs/2112.12989">arXiv</a>.</li><li><strong>2021.12. Glad to be a PhD student at Optimization and Machine Learning Lab led by Prof. <a href="https://richtarik.org/">Peter Richtárik</a>!</strong></li><li><strong>2021.12. Graduated from KAUST with a Master degree. Thanks a lot to my MS supervisor Prof. <a href="http://www.mohamed-elhoseiny.com/home">Mohamed Elhoseiny</a> and colleagues. Also congratulations to myself!</strong></li><li><strong>2021.11. My Master’s thesis is <a href="https://repository.kaust.edu.sa/handle/10754/673833">available</a>, <a href="https://kaiyi.me/p/daczsl">homepage</a></strong></li><li>2021.11. Successfully defended my Master’s thesis!</li><li>2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!</li><li>2021.04.28. Spotlight talk of CIZSL++ at KAUST AI Initiative. <a href="https://youtu.be/WgydkhhKkdg?list=PLC28kDljnOrj-_w-MHKW36gVRvUe3XFjx">link</a>.</li><li>2021.04. Our imaginative walk paper is available on <a href="https://arxiv.org/abs/2104.09757">arXiv</a>! –&gt; <a href="https://imaginative-walks.github.io/">homepage</a></li><li>2020.12. Our paper VisualGPT is on <a href="https://arxiv.org/abs/2102.10407">arXiv</a>. <a href="https://github.com/Vision-CAIR/VisualGPT">code</a>.</li><li>2020.12. Our paper CIZSL++ has been submitted to PAMI. <a href="https://arxiv.org/abs/2101.00173">arXiv</a> paper and <a href="https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2">code</a> are available.</li><li>2020.12. Start research internship at Tencent AI Lab.</li><li>2020.08. Technical report of Legendre decomposition in machine learning is available on <a href="https://arxiv.org/abs/2008.05095">arXiv</a>.</li><li>2020.05. Start research at KAUST Vision-CAIR group.</li><li><strong>2020.04. Glad to be a MS/PhD student at KAUST.</strong></li><li>2020.02. Join CMU Xulab as a remote research intern.</li></ul>
+<ul><li><span style="color:red">New!!</span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publications in  IEEE INTERNATIONAL MIDWEST SYMPOSIUM ON CIRCUITS AND SYSTEMS (MWSCAS 2022)!
+
+<ul><li><span style="color:red">New!!</span>2022.05. Our paper “V3Trans-Crowd: a Video-Based Visual Transformer for Crowd Management Monitoring”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!
+
+  
+ </li><li>2021.09. Reviewer for IEEE Internet-of-Things Journal, IEEE Communications Letters</li><li>
+  
+</li><li><strong>2021.08. Glad to be a MS/PhD student at Innovative Technologies Laboratories Lab led by Prof. <a href="https://yehiamassoud.com/">Yehia Massoud</a>!</strong></li><li>
+    
+<ul><li>2021.06. Our paper “Evolutionary Algorithms for 5G Multi-Tier Radio Access Network Planning”  was accepted for publications in  IEEE Access!
+  
+<ul><li>2021.04. Our paper “Towards Collaborative Mobile Crowdsourcing”  was accepted for publications in  IEEE Internet-of-Things Magazine (IoT-M)!
+  
+ <ul><li>2021.02. Our paper “Low-Complexity Recruitment for Collaborative Mobile Crowdsourcing Using Graph Neural Networks”  was accepted for publications in  IEEE Internet-of-Things (IoT)!
+ 
+   
+ <ul><li>2020.10. Our paper “An Evolutionary Algorithm for Collaborative Mobile Crowdsourcing Recruitment in Socially Connected IoT Systems”  was accepted for publications in  2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)!
+ 
+</li><li>2020.09. Reviewer for IEEE Access, IEEE Transactions on Computational Social Systems</li><li>
+   
+<ul><li>2020.09. Our paper “Optimal Team Recruitment Strategies for Collaborative Mobile Crowdsourcing Systems”  was accepted for publications in  2020 IEEE Technology & Engineering Management Conference (TEMSCON)!
+  
+      
+      
+<ul><li>2020.09. Our paper “A Trustworthy Recruitment Process for Spatial Mobile Crowdsourcing in Large-scale Social IoT”  was accepted for publications in  2020 IEEE Technology & Engineering Management Conference (TEMSCON)!
+ 
+         
+<ul><li>2020.07. Our paper “Many-to-Many Recruitment and Scheduling in Spatial Mobile Crowdsourcing”  was accepted for publications in  IEEE Access!
+  
+                         
+                  
+<ul><li>2020.04. Our paper “A Spatial Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  IEEE Transactions on Computational Social Systems!
+  
+</li><li><strong>  2020.01. Graduated from Higher School of Communication of Tunis (SUP'COM) with a Diplome D'ingenieur (B.Eng) with summa cum laude. Thanks a lot to my supervisors: Yehia Massoud, Hakim Ghazzai, and Mounir Frikha</strong></li><li>
+ 
+  
+</li><li>2019.09. Reviewer for IEEE International Midwest Symposium on Circuits and Systems</li><li>
+
+<ul><li>2019.09. Our paper “A Stochastic Team Formation Approach for Collaborative Mobile Crowdsourcing”  was accepted for publications in  2019 31st International Conference on Microelectronics (ICM)!
+         
+<ul><li>2020.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!
+                  
+         
+
+  
+  
+ 
+  
