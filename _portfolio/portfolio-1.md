@@ -1,7 +1,1 @@
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<div class="archive"><h1 class="page__title">Professional Services</h1><!-- ## Professional Services --><h3 id="reviewer">Reviewer</h3><p>IJCV, TIP, ECCV 2022, ICML 2022, CVPR 2022, WACV 2022, BMVC 2021, ITSC 2021, IV 2021, WACV 2021, BMVC 2020, ITSC 2020, TNNLS.</p><h3 id="conference-volunteer">Conference Volunteer</h3><p>NeurIPS 2021, ICML 2021, NeurIPS 2020</p><h3 id="other-services">Other Services</h3><p>KAUST CEMSE Student Ambassador</p></div>
