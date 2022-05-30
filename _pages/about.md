@@ -24,40 +24,40 @@ Aymen Hamrouni (Student Member, IEEE) was born in Sfax, Tunisia. He received his
   
 <li>2021.09. Reviewer for IEEE Internet-of-Things Journal, IEEE Communications Letters</li>
   
-</li><li><strong>2021.08. Glad to be a MS/PhD student at Innovative Technologies Laboratories Lab led by Prof. <a href="https://yehiamassoud.com/">Yehia Massoud</a>!</strong></li><li>
+<li><strong>2021.08. Glad to be a MS/PhD student at Innovative Technologies Laboratories Lab led by Prof. <a href="https://yehiamassoud.com/">Yehia Massoud</a>!</strong></li>
     
-</li><li>2021.06. Our paper “Evolutionary Algorithms for 5G Multi-Tier Radio Access Network Planning”  was accepted for publications in  IEEE Access!
+<li>2021.06. Our paper “Evolutionary Algorithms for 5G Multi-Tier Radio Access Network Planning”  was accepted for publications in  IEEE Access!</li>
   
-</li><li>2021.04. Our paper “Towards Collaborative Mobile Crowdsourcing”  was accepted for publications in  IEEE Internet-of-Things Magazine (IoT-M)!
+<li>2021.04. Our paper “Towards Collaborative Mobile Crowdsourcing”  was accepted for publications in  IEEE Internet-of-Things Magazine (IoT-M)!</li>
   
- <ul><li>2021.02. Our paper “Low-Complexity Recruitment for Collaborative Mobile Crowdsourcing Using Graph Neural Networks”  was accepted for publications in  IEEE Internet-of-Things (IoT)!
+ <li>2021.02. Our paper “Low-Complexity Recruitment for Collaborative Mobile Crowdsourcing Using Graph Neural Networks”  was accepted for publications in  IEEE Internet-of-Things (IoT)!</li>
  
    
- <ul><li>2020.10. Our paper “An Evolutionary Algorithm for Collaborative Mobile Crowdsourcing Recruitment in Socially Connected IoT Systems”  was accepted for publications in  2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)!
+<li>2020.10. Our paper “An Evolutionary Algorithm for Collaborative Mobile Crowdsourcing Recruitment in Socially Connected IoT Systems”  was accepted for publications in  2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)!</li>
  
-</li><li>2020.09. Reviewer for IEEE Access, IEEE Transactions on Computational Social Systems</li><li>
+<li>2020.09. Reviewer for IEEE Access, IEEE Transactions on Computational Social Systems</li>
    
-<ul><li>2020.09. Our paper “Optimal Team Recruitment Strategies for Collaborative Mobile Crowdsourcing Systems”  was accepted for publications in  2020 IEEE Technology & Engineering Management Conference (TEMSCON)!
+<li>2020.09. Our paper “Optimal Team Recruitment Strategies for Collaborative Mobile Crowdsourcing Systems”  was accepted for publications in  2020 IEEE Technology & Engineering Management Conference (TEMSCON)!</li>
   
       
       
-<ul><li>2020.09. Our paper “A Trustworthy Recruitment Process for Spatial Mobile Crowdsourcing in Large-scale Social IoT”  was accepted for publications in  2020 IEEE Technology & Engineering Management Conference (TEMSCON)!
+<li>2020.09. Our paper “A Trustworthy Recruitment Process for Spatial Mobile Crowdsourcing in Large-scale Social IoT”  was accepted for publications in  2020 IEEE Technology & Engineering Management Conference (TEMSCON)!</li>
  
          
-<ul><li>2020.07. Our paper “Many-to-Many Recruitment and Scheduling in Spatial Mobile Crowdsourcing”  was accepted for publications in  IEEE Access!
+<li>2020.07. Our paper “Many-to-Many Recruitment and Scheduling in Spatial Mobile Crowdsourcing”  was accepted for publications in  IEEE Access!</li>
   
                          
                   
-<ul><li>2020.04. Our paper “A Spatial Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  IEEE Transactions on Computational Social Systems!
+<li>2020.04. Our paper “A Spatial Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  IEEE Transactions on Computational Social Systems!</li>
   
-</li><li><strong>  2020.01. Graduated from Higher School of Communication of Tunis (SUP'COM) with a Diplome D'ingenieur (B.Eng) with summa cum laude. Thanks a lot to my supervisors: Yehia Massoud, Hakim Ghazzai, and Mounir Frikha</strong></li><li>
+<li><strong>  2020.01. Graduated from Higher School of Communication of Tunis (SUP'COM) with a Diplome D'ingenieur (B.Eng) with summa cum laude. Thanks a lot to my supervisors: Yehia Massoud, Hakim Ghazzai, and Mounir Frikha</strong></li>
  
   
-</li><li>2019.09. Reviewer for IEEE International Midwest Symposium on Circuits and Systems</li><li>
+<li>2019.09. Reviewer for IEEE International Midwest Symposium on Circuits and Systems</li>
 
-<ul><li>2019.09. Our paper “A Stochastic Team Formation Approach for Collaborative Mobile Crowdsourcing”  was accepted for publications in  2019 31st International Conference on Microelectronics (ICM)!
+<li>2019.09. Our paper “A Stochastic Team Formation Approach for Collaborative Mobile Crowdsourcing”  was accepted for publications in  2019 31st International Conference on Microelectronics (ICM)!</li>
          
-<ul><li>2020.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!
+<li>2020.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!</li>
                   
          
 
