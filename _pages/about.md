@@ -16,7 +16,7 @@ Aymen Hamrouni (Student Member, IEEE) was born in Sfax, Tunisia. He received his
 <div style="text-align: justify;">Collaborative and spatial mobile crowdsourcing, Social Internet-of-Things, Deep learning, Algorithm design, Optimization, Generative and mathematical modeling, and Computer Vision.</div>
 
 <h1 id="whats-new"><span style="color:red">What’s New</span></h1>
-
+<div style="text-align: justify;">
 <li><span style="color:red">New!!</span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publications in  IEEE INTERNATIONAL MIDWEST SYMPOSIUM ON CIRCUITS AND SYSTEMS (MWSCAS 2022)!
 
 <li><span style="color:red">New!!</span>2022.05. Our paper “V3Trans-Crowd: a Video-Based Visual Transformer for Crowd Management Monitoring”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!
@@ -57,7 +57,7 @@ Aymen Hamrouni (Student Member, IEEE) was born in Sfax, Tunisia. He received his
 
 <li>2019.09. Our paper “A Stochastic Team Formation Approach for Collaborative Mobile Crowdsourcing”  was accepted for publications in  2019 31st International Conference on Microelectronics (ICM)!</li>
          
-<li>2020.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!</li>
+<li>2020.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!</li></div>
                   
          
 
