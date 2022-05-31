@@ -33,4 +33,4 @@ Aymen Hamrouni (Student Member, IEEE) was born in Sfax, Tunisia. He received his
 <li><strong>  2020.01. Graduated from Higher School of Communication of Tunis (SUP'COM) with a Diplome D'ingenieur (B.Eng) with summa cum laude. Thanks a lot to my supervisors: Yehia Massoud, Hakim Ghazzai, and Mounir Frikha</strong></li>
 <li>2019.09. Reviewer for IEEE International Midwest Symposium on Circuits and Systems</li>
 <li>2019.09. Our paper “A Stochastic Team Formation Approach for Collaborative Mobile Crowdsourcing”  was accepted for publications in  2019 31st International Conference on Microelectronics (ICM)!</li>    
-<li>2020.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!</li>
+<li>2019.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!</li>
