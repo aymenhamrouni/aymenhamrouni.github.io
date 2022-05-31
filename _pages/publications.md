@@ -18,7 +18,7 @@ author_profile: true
 
 
  
-<ol reversed="" start="9">
+<ol reversed="" start="1">
 	<li>A. Hamrouni, T. Alelyani, H. Ghazzai, and Y. Massoud, “Toward Collaborative Mobile Crowdsourcing“, IEEE Internet of Things Magazine, July 2021.</li>
 	<li>A. Hamrouni, H. Ghazzai, T. Alelyani, and Y. Massoud, “Low Complexity Recruitment for Collaborative Mobile Crowdsourcing Using Graph Neural Networks“, IEEE Internet of Things Journal, June 2021.</li>
 	<li>A. Hamrouni, H. Ghazzai, and Y. Massoud, “Many-to-many Recruitment and Scheduling in Spatial Mobile Crowdsourcing,” IEEE Access, March 2020.</li>
