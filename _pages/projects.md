@@ -9,7 +9,7 @@ Current Projects
 * Multi-modal Asymmetric Autoencoders for Massive Photo Collection Applications
 * Generative Adversarial Networks for de-noising Real-time Video feed Corrupted with Environmental Effects for Autonoums Navigation systems.
 * Resource Allocation in Social IoT using Graph Neural Networks
-*
+
 Previous Projects
 ---
 * UAVs for Crowd-management and Navigability in Social IoT
