@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home Page"
+title                    : "Aymen Hamrouni's Home Page"
 title_separator          : "-"
 name                     : &name "Aymen Hamrouni"
 description              : &description "M.S student at KAUST focusing on computer vision and machine learning"
