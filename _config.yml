@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aymen Hamrouni's Home Page"
+title                    : "Aymen Hamrouni"
 title_separator          : "-"
 name                     : &name "Aymen Hamrouni"
 description              : &description "M.S student at KAUST focusing on computer vision and machine learning"
@@ -20,7 +20,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 1000
 future                   : true
-read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Aymen Hamrouni"
   avatar           : "AymenPhotocropped.jpg"
-  bio              : "Graduate Student, AI Researcher, Deep Learning and Algorithm Design, M.Sc. @ King Abdullah University of Science and Technology (KAUST)"
+  bio              : "Graduate Student, AI Researcher, Deep Learning and Algorithm Design, King Abdullah University of Science and Technology (KAUST)"
   location         : "Jeddah, Saudi Arabia"
   employer         :  
   pubmed           : 
