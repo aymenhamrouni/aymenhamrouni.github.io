@@ -57,3 +57,12 @@ TCSS, IEEE Access, and IEEE Communication Letters. During the period from 2019 t
 affiliated as a Junior Research Scientist with Stevens Institute of Technology. He has managed, till now,
 to produce more than 10 state-of-the-art papers including journals, conferences, and magazines in various
 top IEEE venues." />
+
+
+
+
+
+
+
+The following is my talkmap represents the places I have been to present and discuss my projects and research work.
+<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
