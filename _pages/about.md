@@ -39,5 +39,5 @@ I am a highly motivated researcher with the eager to always learn more and build
 <li>2019.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!</li>
 <li>2019.02. I have accepted an internship position at Stevens Institute of Technology, Hoboken, NJ, USA in the systems engineering departement!</li>
 <li>2016.09. I have recieved an excellence scholarship to pursue my enginnering studies at the prestigious Higher School of Communication of Tunis (SUP'COM)! </li> 
-<li>2019.02. I have successfully passed the national entrance examination for admission to graduate training for engineers in Tunisia. I was ranked 99 nation wide among ~ 1700 total test takers. May the future be brighter! </li>
+<li>2016.02. I have successfully passed the national entrance examination for admission to graduate training for engineers in Tunisia. I was ranked 99 nation wide among ~ 1700 total test takers. May the future be brighter! </li>
 
