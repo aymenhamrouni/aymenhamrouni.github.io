@@ -12,7 +12,7 @@ var addressPoints = [
   
    ["IEEE MWSCAS 2022",33.582638, 130.353372],
   
-   ["Stevens Institute of Technology",22.310020840923368, 39.104739915346464],
+   ["Stevens Institute of Technology",40.743419444416, -74.02627075192441],
   
   
    ["King Abdullah University of Science and Technologies",22.310020840923368, 39.104739915346464],
