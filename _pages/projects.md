@@ -10,7 +10,6 @@ Current Projects
 * Multi-modal Asymmetric Autoencoders for Massive Photo Collection Applications
 **Generative Adversarial Networks for de-noising Real-time Video feed Corrupted with Environmental Effects for Autonoums Navigation systems** (Academic)
  - Created a low-latency video processing pipeline where videos captured by a low-quality camera equipped to the navigation systems of a device (e.g., UAV, autonomous vehicle) is cleaned from rain droplets and rainstreaks and other environmental effects and then reconstructed and enhanced. The resultant de-noised feed becomes more plausible and artifact-free to the driver and also to object detection/recognition algorithms.
- 
 **Team formation and Ressource Allocation in Collaborative Mobile Crowdsroucing for Social IoT** (Academic)
  - Formulated and solved optimal team formation problems to create groups of IoT devices that match specific required tasks. The formulated approach serves also as community detection and resource allocation for different components in the IoT network. As the problem is NP-hard, heuristic Fuzzy-logic approaches, inspired from Graph Neural Networks and graph embedding, were also proposed.
  **UAVs for Crowd-management and Navigability in Social IoT** (Academic)
