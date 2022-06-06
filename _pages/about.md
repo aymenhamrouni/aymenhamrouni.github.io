@@ -7,30 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-
+<span style="color:red">I'm currently open to new opportunities</span>
 <h1 id="bio-graphy">Biography</h1>
 <div style="text-align: justify;">
-Aymen Hamrouni (Student Member, IEEE) was born in Sfax, Tunisia. He received his CPGE diploma of Mathematics/Physics (with honors) in 2016 from <a href="https://ipeis.rnu.tn/">l'Institut Préparatoire aux Etudes d'Ingénieur de Sfax</a>. Aymen received the Diplome d’Ingenieur degree (summa cum laude) in telecommunication engineering from the <a href="http://www.supcom.mincom.tn/">Ecole Superieure des Communications de Tunis (SUP’COM)</a>, Tunis, Tunisia, in 2019. He is now a Graduate student affiliated with the <a href="https://itl.kaust.edu.sa/">Innovative Technologies Laboratories (ITL)</a> under the supervision of <a href="https://yehiamassoud.com/">Prof. Yehia Massoud</a> at <a href="https://en.wikipedia.org/wiki/King_Abdullah_University_of_Science_and_Technology">King Abdullah University of Science and Technology (KAUST)</a>. During the period form 2019 to 2021, Aymen worked as a Research Scientist with the School of Systems and Enterprises at <a href="https://www.stevens.edu/">Stevens Institute of Technology</a>, NJ, USA. </div>
+I am a highly motivated researcher with the eager to always learn more and build a successful career. I am passionate about algorithm design, applied deep learning and artificial intelligence for visual computing. I am keen to make a real impact in the world. I am an autonomous and self-motivated person. In fact, I often take the lead and start projects on my own because I enjoy it. Compared to most people my age, I have more self-discipline and more willingness to try and learn new things, something I think it is proven by my projects and research record so far. I have received my CPGE diploma of Mathematics/Physics (with honors) in 2016 from <a href="https://ipeis.rnu.tn/">l'Institut Préparatoire aux Etudes d'Ingénieur de Sfax</a>. After that, I received the Diplome d’Ingenieur degree (summa cum laude) in telecommunication engineering from the <a href="http://www.supcom.mincom.tn/">Ecole Superieure des Communications de Tunis (SUP’COM)</a>, Tunis, Tunisia, in 2019. I am currently a M.Sc. Graduate student affiliated with the <a href="https://itl.kaust.edu.sa/">Innovative Technologies Laboratories (ITL)</a> under the supervision of <a href="https://yehiamassoud.com/">Prof. Yehia Massoud</a> at <a href="https://en.wikipedia.org/wiki/King_Abdullah_University_of_Science_and_Technology">King Abdullah University of Science and Technology (KAUST)</a>. During the period form 2019 to 2021, I worked as a Junior research scientist with the School of Systems and Enterprises at <a href="https://www.stevens.edu/">Stevens Institute of Technology</a>, NJ, USA. </div>
 
 <h1 id="research-interests">Research Interests</h1>
-<div style="text-align: justify;">Collaborative and spatial mobile crowdsourcing, Social Internet-of-Things, Deep learning, Algorithm design, Optimization, Generative and mathematical modeling, and Computer Vision.</div>
+<div style="text-align: justify;">Artifical Intelligence, Deep Learning for visual computing, Optimization, Low-complexity algorithm design, Computer Vision, and Social Internet-of-Things.</div>
 
 <h1 id="whats-new"><span style="color:red">What’s New</span></h1>
 <ul>
 <li><span style="color:red">New!! </span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
 <li><span style="color:red">New!! </span>2022.05. Our paper “V3Trans-Crowd: a Video-Based Visual Transformer for Crowd Management Monitoring”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
 <li>2021.09. Reviewer for IEEE Internet-of-Things Journal, IEEE Communications Letters</li>
-<li><strong>2021.08. Glad to be a MS/PhD student at Innovative Technologies Laboratories Lab led by Prof. <a href="https://yehiamassoud.com/">Yehia Massoud</a>!</strong> </li>   
+<li><strong>2021.08. Glad t be a MS/PhD student and a co-founding member at the new "Innovative Technologies Laboratories" Lab (Est. 08/2021) led by Prof. <a href="https://yehiamassoud.com/">Yehia Massoud</a> at King Abdullah University of Science and Technology!</strong> </li>   
 <li>2021.06. Our paper “Evolutionary Algorithms for 5G Multi-Tier Radio Access Network Planning”  was accepted for publications in  IEEE Access! 
 <li>2021.04. Our paper “Towards Collaborative Mobile Crowdsourcing”  was accepted for publications in  IEEE Internet-of-Things Magazine (IoT-M)!</li> 
 <li>2021.02. Our paper “Low-Complexity Recruitment for Collaborative Mobile Crowdsourcing Using Graph Neural Networks”  was accepted for publications in  IEEE Internet-of-Things (IoT)!</li>
+<li>  2020.11. I have been promoted to a Research Scholar with the School of Systems and Enterprises at Stevens Institute of Technology</li>
 <li>2020.10. Our paper “An Evolutionary Algorithm for Collaborative Mobile Crowdsourcing Recruitment in Socially Connected IoT Systems”  was accepted for publications in  2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)!</li>
 <li>2020.09. Reviewer for IEEE Access, IEEE Transactions on Computational Social Systems</li>   
 <li>2020.09. Our paper “Optimal Team Recruitment Strategies for Collaborative Mobile Crowdsourcing Systems”  was accepted for publications in  2020 IEEE Technology & Engineering Management Conference (TEMSCON)!</li>
 <li>2020.09. Our paper “A Trustworthy Recruitment Process for Spatial Mobile Crowdsourcing in Large-scale Social IoT”  was accepted for publications in  2020 IEEE Technology & Engineering Management Conference (TEMSCON)!</li>
 <li>2020.07. Our paper “Many-to-Many Recruitment and Scheduling in Spatial Mobile Crowdsourcing”  was accepted for publications in  IEEE Access!</li>
 <li>2020.04. Our paper “A Spatial Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  IEEE Transactions on Computational Social Systems!</li>
+<li>  2020.03. I have been assigned as a Research Engineer with the School of Systems and Enterprises at Stevens Institute of Technology</li>
 <li><strong>  2020.01. Graduated from Higher School of Communication of Tunis (SUP'COM) with a Diplome D'ingenieur (B.Eng) with summa cum laude. Thanks a lot to my supervisors: Prof. Yehia Massoud, Dr. Hakim Ghazzai, and Prof. Mounir Frikha</strong></li>
 <li>2019.09. Reviewer for IEEE International Midwest Symposium on Circuits and Systems</li>
 <li>2019.09. Our paper “A Stochastic Team Formation Approach for Collaborative Mobile Crowdsourcing”  was accepted for publications in  2019 31st International Conference on Microelectronics (ICM)!</li>    
 <li>2019.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!</li>
+<li>2019.02. I have accepted an internship position at Stevens Institute of Technology, Hoboken, NJ, USA in the systems engineering departement!</li>
+  
