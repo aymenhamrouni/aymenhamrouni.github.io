@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Services and Awards"
-permalink: /services/
+permalink: /servicesandawards/
 author_profile: true
 ---
 
