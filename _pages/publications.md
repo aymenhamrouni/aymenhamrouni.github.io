@@ -64,5 +64,5 @@ top IEEE venues." />
 
 
 
-The following represents my talkmap. It represents the places I have been to present and discuss my projects and research work.
+The following is my talkmap. It shows the places I have been to present and discuss my projects and research work.
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
