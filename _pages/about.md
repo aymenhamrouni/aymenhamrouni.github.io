@@ -7,6 +7,20 @@ redirect_from:
   - /about.html
 ---
 
+<meta name="description" content="Aymen Hamrouni* received the Diplome d’Ingenieur (summa cum laude) in Telecommunication Engineering from the Ecole Superieure des Communications de Tunis (SUP’COM), Tunis, Tunisia, in 2019. Before
+that, he recieved his CPGE degree in advanced theoretical mathematics and physics (Hons.) from Institut
+Pr´eparatoire aux Etudes d’Ing´enieur de Sfax, in 2016.  Aymen is a young, passionate, and self-motivated
+AI researcher with a versatile background in Information Technologies and equipped with thorough mathematical Optimization knowledge, Graph Theory expertise, and advanced Data Science skills. Fluent
+in Python, C/C++, and Matlab, Aymen’s interests* lay in the intersection of graph neural networks, deep
+generative modelings, applied machine learning and optimization, mathematical modeling, graph theory,
+and the Internet-of-Things. Aymen is currently serving as an active reviewer in IEEE IoT Journal, IEEE
+TCSS, IEEE Access, and IEEE Communication Letters. During the period from 2019 to 2021, Aymen was
+affiliated as a Junior Research Scientist with Stevens Institute of Technology. He has managed, till now,
+to produce more than 10 state-of-the-art papers including journals, conferences, and magazines in various
+top IEEE venues." />
+        
+        
+        
 <span style="color:red">I'm currently open to new opportunities</span>
 <h1 id="bio-graphy">Biography</h1>
 <div style="text-align: justify;">
