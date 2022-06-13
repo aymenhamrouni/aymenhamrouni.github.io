@@ -28,11 +28,11 @@ top IEEE venues." />
 
 Education
 ======
-* CPGE Degree (Les classes préparatoires aux grandes écoles) in Theoretical Maths and Physics, 2014-206
+* CPGE Degree (Les classes préparatoires aux grandes écoles) in Theoretical Maths and Physics, 2014-2016
  
-* B.Eng. (Diplome D'ingenieur) in Telecommunicationm Higher School of Communication of Tunis (SUP'COM), 2016-2020
+* B. Eng. (Diplome D'ingenieur) in Telecommunicationm Higher School of Communication of Tunis (SUP'COM), 2016-2020
 
-* M.S. in Electrical and Computer Enginnering, King Abdullah University of Science and Technology, 2021-2023
+* M.Sc. in Electrical and Computer Enginnering, King Abdullah University of Science and Technology, 2021-2023
 
 Work experience
 ======
