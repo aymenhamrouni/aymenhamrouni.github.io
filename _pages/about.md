@@ -40,8 +40,9 @@ I am a highly motivated researcher with the eager to always learn more and build
 
 <h1 id="whats-new"><span style="color:red">What’s New</span></h1>
 <ul>
-<li><span style="color:red">New!! </span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
-<li><span style="color:red">New!! </span>2022.05. Our paper “V3Trans-Crowd: a Video-Based Visual Transformer for Crowd Management Monitoring”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
+ <li><span style="color:red">New!! </span>2022.08. I was accepted to be a part of the AWS Community Builders program!</li>
+<li><span style="color:red"></span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
+<li><span style="color:red"></span>2022.05. Our paper “V3Trans-Crowd: a Video-Based Visual Transformer for Crowd Management Monitoring”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
 <li>2021.09. Reviewer for IEEE Internet-of-Things Journal, IEEE Communications Letters</li>
 <li><strong>2021.08. Glad t be a MS/PhD student and a co-founding member at the new "Innovative Technologies Laboratories" Lab (Est. 08/2021) led by Prof. <a href="https://yehiamassoud.com/">Yehia Massoud</a> at King Abdullah University of Science and Technology!</strong> </li>   
 <li>2021.06. Our paper “Evolutionary Algorithms for 5G Multi-Tier Radio Access Network Planning”  was accepted for publications in  IEEE Access! 
