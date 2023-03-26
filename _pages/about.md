@@ -40,7 +40,12 @@ I am a highly motivated researcher with the eager to always learn more and build
 
 <h1 id="whats-new"><span style="color:red">What’s New</span></h1>
 <ul>
- <li><span style="color:red">New!! </span>2022.08. I was accepted to be a part of the AWS Community Builders program!</li>
+   <li><span style="color:red">New!! </span>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring"  have won the Best Paper Award for the IEEE SM'23 </li>
+  <li><span style="color:red">New!! </span>2023.03. Our paper "Real-Time Video Frame De-Raining Using Disentangled Generative Models" has been accepted for publication in IEEE International Conference on Smart Mobility 2023</li>
+  
+ <li><span style="color:red">New!! </span>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring" has been accepted for publication in IEEE International Conference on Smart Mobility 2023</li>
+
+ <li><span style="color:red"></span>2022.08. I was accepted to be a part of the AWS Community Builders program!</li>
 <li><span style="color:red"></span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
 <li><span style="color:red"></span>2022.05. Our paper “V3Trans-Crowd: a Video-Based Visual Transformer for Crowd Management Monitoring”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
 <li>2021.09. Reviewer for IEEE Internet-of-Things Journal, IEEE Communications Letters</li>
