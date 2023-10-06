@@ -25,9 +25,8 @@ The full list of publications can be found on my<a href="https://scholar.google.
 
 <div class="gsc_g_hist_wrp" dir="rtl"><div class="gsc_g_hist_x"><div class="gsc_g_x" style="top:160px;"></div><div class="gsc_g_xt" style="top:0px;"></div><div class="gsc_g_xt" style="top:80px;"></div></div><div class="gsc_g_hist_xl"><div class="gsc_g_xtl" style="top:153px;">0</div><div class="gsc_g_xtl" style="top:-7px;">70</div><div class="gsc_g_xtl" style="top:73px;">35</div></div><div class="gsc_md_hist_w"><div class="gsc_md_hist_b"><span class="gsc_g_t" style="right:131px">2019</span><span class="gsc_g_t" style="right:99px">2020</span><span class="gsc_g_t" style="right:67px">2021</span><span class="gsc_g_t" style="right:35px">2022</span><span class="gsc_g_t" style="right:3px">2023</span><a href="javascript:void(0)" class="gsc_g_a" style="right:136px;top:154px;height:6px;z-index:5"><span class="gsc_g_al">3</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:104px;top:94px;height:66px;z-index:4"><span class="gsc_g_al">29</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:72px;top:99px;height:61px;z-index:3"><span class="gsc_g_al">27</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:40px;top:16px;height:144px;z-index:2"><span class="gsc_g_al">63</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:8px;top:71px;height:89px;z-index:1"><span class="gsc_g_al">39</span></a></div></div></div>
 
+
 	
-
-
 
 *Last update in 2023*
 
