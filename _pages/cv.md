@@ -36,7 +36,7 @@ Education
 
 Work experience
 ======
-* Jul. 2021-Present: AI Researcher at Innovative Technologies Laboratories, KAUST, Thuwal, Saudi Arabia
+* Jul. 2021-2023: AI Researcher at KAUST, Thuwal, Saudi Arabia
 
 * Dec. 2020-Present: Junior Research Scientist/Research Scholar at Stevens intitute of Technology, Hoboken, New Jersey, USA
 
