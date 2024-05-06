@@ -26,12 +26,12 @@ I have received the Diplome d’Ingenieur degree (summa cum laude) in telecommun
 
 <h1 id="whats-new"><span style="color:red">What’s New</span></h1>
 <ul>
-  <li><span style="color:green">New!! </span>2023.07. Our paper "Multi-Rotor UAVs in Crowd Management Systems: Opportunities and Challenges" has been accepted for publication in IEEE Internet-of-Things Magazine</li>
-   <li><span style="color:green">New!! </span>2023.06. I have graduated with a Master's degree in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) </li>
-   <li><span style="color:red">New!! </span>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring"  have won the Best Paper Award for the IEEE SM'23 </li>
-  <li><span style="color:red">New!! </span>2023.03. Our paper "Real-Time Video Frame De-Raining Using Disentangled Generative Models" has been accepted for publication in IEEE International Conference on Smart Mobility 2023</li>
+  <li>2023.07. Our paper "Multi-Rotor UAVs in Crowd Management Systems: Opportunities and Challenges" has been accepted for publication in IEEE Internet-of-Things Magazine</li>
+   <li>2023.06. I have graduated with a Master's degree in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) </li>
+   <li>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring"  have won the Best Paper Award for the IEEE SM'23 </li>
+  <li>2023.03. Our paper "Real-Time Video Frame De-Raining Using Disentangled Generative Models" has been accepted for publication in IEEE International Conference on Smart Mobility 2023</li>
   
- <li><span style="color:red">New!! </span>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring" has been accepted for publication in IEEE International Conference on Smart Mobility 2023</li>
+ <li>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring" has been accepted for publication in IEEE International Conference on Smart Mobility 2023</li>
 
  <li><span style="color:red"></span>2022.08. I was accepted to be a part of the AWS Community Builders program!</li>
 <li><span style="color:red"></span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
