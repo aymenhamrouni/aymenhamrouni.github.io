@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-The full list of publications can be found on my<a href="https://scholar.google.com/citations?user=DkkesEkAAAAJ&hl=en"> Google Scholar </a>profile.
+The full list of publications can be found on my <a href="https://scholar.google.com/citations?user=DkkesEkAAAAJ&hl=en">Google Scholar</a> profile.
 
 
 	
