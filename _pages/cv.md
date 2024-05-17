@@ -23,7 +23,7 @@ top IEEE venues." />
         
 {% include base_path %}
 
-<p>Full CV is available <a href="https://nbviewer.org/github/aymenhamrouni/aymenhamrouni.github.io/blob/master/files/AymenHamrouniCV_2024.pdf">here</a>. Last update: June, 2022.</p>
+<p>Full CV is available <a href="https://nbviewer.org/github/aymenhamrouni/aymenhamrouni.github.io/blob/master/files/AymenHamrouniCV_2024.pdf">here</a>. Last update: May, 2024</p>
 
 
 Education
