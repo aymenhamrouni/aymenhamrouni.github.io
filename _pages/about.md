@@ -32,7 +32,7 @@ I received a Master's degree in Electrical and Computer Engineering (Hons.) from
 
   
   <li>2023.07. Our paper "Multi-Rotor UAVs in Crowd Management Systems: Opportunities and Challenges" has been accepted for publication in IEEE Internet-of-Things Magazine</li>
-   <li>2023.06. I have graduated with a Master's degree in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) </li>
+ <li><strong>2023.06. I have graduated with a Master's degree in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) </strong> </li>
       <li><span style="color:green">2023.05. My application was approved for another year in the AWS Community Builders program!</span></li>
 
    <li>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring"  has won the Best Paper Award for the IEEE SM'23 </li>
@@ -61,7 +61,7 @@ I received a Master's degree in Electrical and Computer Engineering (Hons.) from
 <li>2019.09. Our paper “A Stochastic Team Formation Approach for Collaborative Mobile Crowdsourcing”  was accepted for publication in  2019 31st International Conference on Microelectronics (ICM)!</li>    
 <li>2019.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publication in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!</li>
 <li>2019.02. I have accepted an internship position at Stevens Institute of Technology, Hoboken, NJ, USA in the systems engineering department!</li>
-<li>2016.09. I have received an excellence scholarship to pursue my engineering studies at the prestigious Higher School of Communication of Tunis (SUP'COM)! </li> 
+<li><strong>2016.09. I have received an excellence scholarship to pursue my engineering studies at the prestigious Higher School of Communication of Tunis (SUP'COM)! </strong></li> 
 <li>2016.02. I have successfully passed the national entrance examination for admission to graduate training for engineers in Tunisia. I was ranked 99 nationwide among ~ 1700 total test takers. May the future be brighter! </li>
 
 
