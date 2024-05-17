@@ -24,38 +24,45 @@ I received a Master's degree in Electrical and Computer Engineering (Hons.) from
 <h1 id="research-interests">Research Interests</h1>
 <div style="text-align: justify;">Artifical Intelligence, Optimization, Low-complexity algorithm design, Graph Neural Networks, and Social Internet-of-Things.</div>
 
-<h1 id="whats-new"><span style="color:red">What’s New</span></h1>
+<h1 id="whats-new"><span style="color:red">What’s New ?</span></h1>
 <ul>
+   <li><span style="color:green">2024.05. My application was approved for another year in the AWS Community Builders program!</span></li>
+
+  <li>2023.07. Our paper "Multi-Rotor UAVs in Crowd Management Systems: Opportunities and Challenges" has been accepted for publication in IEEE Internet-of-Things Magazine</li>
+
+  
   <li>2023.07. Our paper "Multi-Rotor UAVs in Crowd Management Systems: Opportunities and Challenges" has been accepted for publication in IEEE Internet-of-Things Magazine</li>
    <li>2023.06. I have graduated with a Master's degree in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) </li>
-   <li>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring"  have won the Best Paper Award for the IEEE SM'23 </li>
-  <li>2023.03. Our paper "Real-Time Video Frame De-Raining Using Disentangled Generative Models" has been accepted for publication in IEEE International Conference on Smart Mobility 2023</li>
+      <li><span style="color:green">2023.05. My application was approved for another year in the AWS Community Builders program!</span></li>
+
+   <li>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring"  has won the Best Paper Award for the IEEE SM'23 </li>
+  <li>2023.03. Our paper "Real-Time Video Frame De-Raining Using Disentangled Generative Models" has been accepted for publication in the IEEE International Conference on Smart Mobility 2023</li>
   
- <li>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring" has been accepted for publication in IEEE International Conference on Smart Mobility 2023</li>
+ <li>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring" has been accepted for publication in the IEEE International Conference on Smart Mobility 2023</li>
 
  <li><span style="color:red"></span>2022.08. I was accepted to be a part of the AWS Community Builders program!</li>
-<li><span style="color:red"></span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publications in  IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
+<li><span style="color:red"></span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publication in  the IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
 <li>2021.09. Reviewer for IEEE Internet-of-Things Journal, IEEE Communications Letters</li>
-<li><strong>2021.08. Glad to be accepted as a Master student at King Abdullah University of Science and Technology!</strong> </li>   
-<li>2021.06. Our paper “Evolutionary Algorithms for 5G Multi-Tier Radio Access Network Planning”  was accepted for publications in  IEEE Access! 
-<li>2021.04. Our paper “Towards Collaborative Mobile Crowdsourcing”  was accepted for publications in  IEEE Internet-of-Things Magazine (IoT-M)!</li> 
-<li>2021.04. I was accepted to pursue a systems engineering Ph.D. program at Stevens Institute of Technology and awarded with a Provost Fellowship!. Congrats to me!</li> 
-<li>2021.02. Our paper “Low-Complexity Recruitment for Collaborative Mobile Crowdsourcing Using Graph Neural Networks”  was accepted for publications in  IEEE Internet-of-Things (IoT)!</li>
+<li><strong>2021.08. Glad to be accepted as a Master's student at King Abdullah University of Science and Technology!</strong> </li>   
+<li>2021.06. Our paper “Evolutionary Algorithms for 5G Multi-Tier Radio Access Network Planning”  was accepted for publication in  IEEE Access! 
+<li>2021.04. Our paper “Towards Collaborative Mobile Crowdsourcing”  was accepted for publication in  IEEE Internet-of-Things Magazine (IoT-M)!</li> 
+<li>2021.04. I was accepted to pursue a systems engineering Ph.D. program at the Stevens Institute of Technology and awarded with a Provost Fellowship! Congrats to me!</li> 
+<li>2021.02. Our paper “Low-Complexity Recruitment for Collaborative Mobile Crowdsourcing Using Graph Neural Networks”  was accepted for publication in  IEEE Internet-of-Things (IoT)!</li>
 <li>  2020.11. I have been promoted to a Research Scholar with the School of Systems and Enterprises at Stevens Institute of Technology</li>
-<li>2020.10. Our paper “An Evolutionary Algorithm for Collaborative Mobile Crowdsourcing Recruitment in Socially Connected IoT Systems”  was accepted for publications in  2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)!</li>
+<li>2020.10. Our paper “An Evolutionary Algorithm for Collaborative Mobile Crowdsourcing Recruitment in Socially Connected IoT Systems”  was accepted for publication in  the 2020 IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT)!</li>
 <li>2020.09. Reviewer for IEEE Access, IEEE Transactions on Computational Social Systems</li>   
-<li>2020.09. Our paper “Optimal Team Recruitment Strategies for Collaborative Mobile Crowdsourcing Systems”  was accepted for publications in  2020 IEEE Technology & Engineering Management Conference (TEMSCON)!</li>
-<li>2020.09. Our paper “A Trustworthy Recruitment Process for Spatial Mobile Crowdsourcing in Large-scale Social IoT”  was accepted for publications in  2020 IEEE Technology & Engineering Management Conference (TEMSCON)!</li>
-<li>2020.07. Our paper “Many-to-Many Recruitment and Scheduling in Spatial Mobile Crowdsourcing”  was accepted for publications in  IEEE Access!</li>
-<li>2020.04. Our paper “A Spatial Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  IEEE Transactions on Computational Social Systems!</li>
+<li>2020.09. Our paper “Optimal Team Recruitment Strategies for Collaborative Mobile Crowdsourcing Systems”  was accepted for publication at  2020 IEEE Technology & Engineering Management Conference (TEMSCON)!</li>
+<li>2020.09. Our paper “A Trustworthy Recruitment Process for Spatial Mobile Crowdsourcing in Large-scale Social IoT”  was accepted for publication at  2020 IEEE Technology & Engineering Management Conference (TEMSCON)!</li>
+<li>2020.07. Our paper “Many-to-Many Recruitment and Scheduling in Spatial Mobile Crowdsourcing”  was accepted for publication in  IEEE Access!</li>
+<li>2020.04. Our paper “A Spatial Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publication in  IEEE Transactions on Computational Social Systems!</li>
 <li>  2020.03. I have been assigned as a Research Engineer with the School of Systems and Enterprises at Stevens Institute of Technology</li>
-<li><strong>  2020.01. Graduated from Higher School of Communication of Tunis (SUP'COM) with a Diplome D'ingenieur (B.Eng) with summa cum laude. I have also recieved the best dissertation award from SUP'COM. Thanks a lot to my supervisors: Dr. Hakim Ghazzai, and Prof. Mounir Frikha</strong></li>
+<li><strong>  2020.01. Graduated from Higher School of Communication of Tunis (SUP'COM) with a Diplome D'ingenieur (B.Eng) with summa cum laude. I have also received the best dissertation award from SUP'COM. Thanks a lot to my supervisors: Dr. Hakim Ghazzai, and Prof. Mounir Frikha</strong></li>
 <li>2019.09. Reviewer for IEEE International Midwest Symposium on Circuits and Systems</li>
-<li>2019.09. Our paper “A Stochastic Team Formation Approach for Collaborative Mobile Crowdsourcing”  was accepted for publications in  2019 31st International Conference on Microelectronics (ICM)!</li>    
-<li>2019.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publications in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!</li>
-<li>2019.02. I have accepted an internship position at Stevens Institute of Technology, Hoboken, NJ, USA in the systems engineering departement!</li>
-<li>2016.09. I have recieved an excellence scholarship to pursue my enginnering studies at the prestigious Higher School of Communication of Tunis (SUP'COM)! </li> 
-<li>2016.02. I have successfully passed the national entrance examination for admission to graduate training for engineers in Tunisia. I was ranked 99 nation wide among ~ 1700 total test takers. May the future be brighter! </li>
+<li>2019.09. Our paper “A Stochastic Team Formation Approach for Collaborative Mobile Crowdsourcing”  was accepted for publication in  2019 31st International Conference on Microelectronics (ICM)!</li>    
+<li>2019.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publication in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!</li>
+<li>2019.02. I have accepted an internship position at Stevens Institute of Technology, Hoboken, NJ, USA in the systems engineering department!</li>
+<li>2016.09. I have received an excellence scholarship to pursue my engineering studies at the prestigious Higher School of Communication of Tunis (SUP'COM)! </li> 
+<li>2016.02. I have successfully passed the national entrance examination for admission to graduate training for engineers in Tunisia. I was ranked 99 nationwide among ~ 1700 total test takers. May the future be brighter! </li>
 
 
  
