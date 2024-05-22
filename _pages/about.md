@@ -27,6 +27,7 @@ I received a Master's degree in Electrical and Computer Engineering (Hons.) from
 <h1 id="whats-new"><span style="color:red">What’s New ?</span></h1>
 <ul>
    <li><span style="color:green">2024.05. My application was approved for another year in the AWS Community Builders program!</span></li>
+   <li><span style="color:green">2024.02. Super Happy to be a new PhD student within the WaveCore group at KU Leuven!</span></li>
 
   <li>2023.07. Our paper "Multi-Rotor UAVs in Crowd Management Systems: Opportunities and Challenges" has been accepted for publication in IEEE Internet-of-Things Magazine</li>
 
