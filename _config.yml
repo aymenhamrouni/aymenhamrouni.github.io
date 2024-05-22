@@ -10,9 +10,9 @@ locale                   : "en-US"
 title                    : "Aymen Hamrouni"
 title_separator          : "-"
 name                     : &name "Aymen Hamrouni"
-description              : &description "M.S student at KAUST focusing on computer vision and machine learning"
-description              : &description  "M.S Student"
-description              : &description  "King Abdullah University of Science and Technology (KAUST)"
+description              : &description "Ph.D. student at KU Leuven"
+description              : &description  "Ph.D. student at KU Leuven"
+description              : &description  "Katholieke Universiteit Leuven (KU Leuven)"
 url                      : https://www.aymenhamrouni.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aymenhamrouni/aymenhamrouni.github.io"
@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Aymen Hamrouni"
   avatar           : "aymen.jpg"
-  bio              : "Graduate Student, AI Researcher, Deep Learning and Algorithm Design, King Abdullah University of Science and Technology (KAUST)"
-  location         : "Jeddah, Saudi Arabia"
+  bio              : "Graduate Student and Researcher; Deep Learning and Algorithm Design"
+  location         : "Leuven, Belgium"
   employer         :  
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DkkesEkAAAAJ&hl=en"
