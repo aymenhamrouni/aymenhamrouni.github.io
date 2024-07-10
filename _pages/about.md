@@ -32,7 +32,6 @@ I received a Master's degree in Electrical and Computer Engineering (Hons.) from
   <li>2023.07. Our paper "Multi-Rotor UAVs in Crowd Management Systems: Opportunities and Challenges" has been accepted for publication in IEEE Internet-of-Things Magazine</li>
 
   
-  <li>2023.07. Our paper "Multi-Rotor UAVs in Crowd Management Systems: Opportunities and Challenges" has been accepted for publication in IEEE Internet-of-Things Magazine</li>
  <li><strong>2023.06. I have graduated with a Master's degree in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) </strong> </li>
       <li><span style="color:green">2023.05. My application was approved for another year in the AWS Community Builders program!</span></li>
 
