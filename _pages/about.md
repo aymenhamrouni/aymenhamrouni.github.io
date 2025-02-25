@@ -18,10 +18,9 @@ TCSS, IEEE Access, IEEE Communication Letters, etc." />
 
 <h1 id="bio-graphy">Biography</h1>
 <div style="text-align: justify;">
-I am a highly motivated researcher with a keen passion for algorithm design, applied deep learning, and artificial intelligence. I am an autonomous and self-motivated person. I often take the lead and start projects on my own because I enjoy it. Compared to most people my age, I have more self-discipline and more willingness to try and learn new things, something I think it is proven by my projects and research record so far. 
-I received a Master's degree in Electrical and Computer Engineering (Hons.) from King Abdullah University of Science and Technology (KAUST), in 2023, and the Diplome d’Ingenieur degree (summa cum laude) in telecommunication engineering from the Ecole Superieure des Communications de Tunis (SUP’COM) in 2019. From 2019 to 2021, I was affiliated as a Research Scholar with the School of Systems and Enterprises, Stevens Institute of Technology, Hoboken, NJ, USA.  I have a versatile background in Information Technologies and am equipped with thorough mathematical Optimization knowledge, Graph Theory expertise, and advanced Data Science skills. Fluent in Python, C/C++, and Matlab, My interests lie at the intersection of applied machine learning and optimization, mathematical modeling, graph theory, and the Internet-of-Things.
+I received the Diplome d’Ingenieur degree (summa cum laude) in telecommunication engineering from the Ecole Superieure des Communications de Tunis (SUP’COM), Tunis, Tunisia, in 2019 and the Masters in Electrical and Computer Engineering (Hons.) from the King Abdullah University of Science and Technology (KAUST). I am now pursuing a Ph.D. in Electrical Engineering Within <a href="https://www.esat.kuleuven.be/wavecorearenberg/Home">WaveCore Arenberg</a> at KU LEUVEN, Leuven, Belgium.
 <h1 id="research-interests">Research Interests</h1>
-<div style="text-align: justify;">Artifical Intelligence, Optimization, Low-complexity algorithm design, Graph Neural Networks, and Social Internet-of-Things.</div>
+<div style="text-align: justify;">Artifical Intelligence, Optimization, and Internet-of-Things.</div>
 
 <h1 id="whats-new"><span style="color:red">What’s New ?</span></h1>
 <ul>
