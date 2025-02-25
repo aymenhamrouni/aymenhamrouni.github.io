@@ -1,7 +1,6 @@
 ---
 permalink: /
-excerpt: "Aymen Hamrouni (Student Member, IEEE) received the Diplome d’Ingenieur degree (summa cum laude) in telecommunication engineering from the Ecole Superieure des Communications de Tunis (SUP’COM), Tunis, Tunisia, in 2019 and the Masters in Electrical and Computer Engineering (Hons.) from the King Abdullah University of Science and Technology (KAUST). From 2019 to 2021, Aymen was affiliated as a Research Scholar with the School of Systems and Enterprises, Stevens Institute of Technology, Hoboken, NJ, USA.  Aymen is a young, passionate, and self-motivated
-AI researcher with a versatile background in Information Technologies and equipped with thorough mathematical Optimization knowledge, Graph Theory expertise, and advanced Data Science skills. Fluent in Python, C/C++, and Matlab, Aymen’s interests lay in the intersection of applied machine learning and optimization, mathematical modeling, graph theory, and the Internet-of-Things."
+excerpt: "I received the Diplome d’Ingenieur degree (summa cum laude) in telecommunication engineering from the Ecole Superieure des Communications de Tunis (SUP’COM), Tunis, Tunisia, in 2019 and the Masters in Electrical and Computer Engineering (Hons.) from the King Abdullah University of Science and Technology (KAUST). I am now pursuing a Ph.D. in Electrical Engineering Within WaveCore Arenberg at KU LEUVEN, Leuven, Belgium. My research interests have been around optimization and applied machine learning, mathematical modeling, graph theory, and the Internet-of-Things."
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,22 +25,24 @@ I received a Master's degree in Electrical and Computer Engineering (Hons.) from
 
 <h1 id="whats-new"><span style="color:red">What’s New ?</span></h1>
 <ul>
-   <li><span style="color:green">2024.05. My application was approved for another year in the AWS Community Builders program!</span></li>
-   <li><span style="color:green">2024.02. Super Happy to be a new PhD student within the WaveCore group at KU Leuven!</span></li>
+     <li><span style="color:green">2024.09. AoI in Context-Aware Hybrid Radio-Optical Networks has been accepted for publication in the IEEE Global Communications Conference 2024.</span></li>
+
+   <li>2024.05. My application was approved for another year in the AWS Community Builders program!/li>
+   <li>2024.02. Super Happy to be a new PhD student within the WaveCore group at KU Leuven!</li>
 
   <li>2023.07. Our paper "Multi-Rotor UAVs in Crowd Management Systems: Opportunities and Challenges" has been accepted for publication in IEEE Internet-of-Things Magazine</li>
 
   
  <li><strong>2023.06. I have graduated with a Master's degree in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) </strong> </li>
-      <li><span style="color:green">2023.05. My application was approved for another year in the AWS Community Builders program!</span></li>
+      <li>2023.05. My application was approved for another year in the AWS Community Builders program!</li>
 
    <li>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring"  has won the Best Paper Award for the IEEE SM'23 </li>
   <li>2023.03. Our paper "Real-Time Video Frame De-Raining Using Disentangled Generative Models" has been accepted for publication in the IEEE International Conference on Smart Mobility 2023</li>
   
  <li>2023.03. Our paper "V3Trans-Crowd: A Video-Based Visual Transformer for Crowd Management Monitoring" has been accepted for publication in the IEEE International Conference on Smart Mobility 2023</li>
 
- <li><span style="color:red"></span>2022.08. I was accepted to be a part of the AWS Community Builders program!</li>
-<li><span style="color:red"></span>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publication in  the IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
+ <li>2022.08. I was accepted to be a part of the AWS Community Builders program!</li>
+<li>2022.05. Our paper “Service Discovery in Social Internet of Things Using Graph Neural Networks”  was accepted for publication in  the IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'22)!</li>
 <li>2021.09. Reviewer for IEEE Internet-of-Things Journal, IEEE Communications Letters</li>
 <li><strong>2021.08. Glad to be accepted as a Master's student at King Abdullah University of Science and Technology!</strong> </li>   
 <li>2021.06. Our paper “Evolutionary Algorithms for 5G Multi-Tier Radio Access Network Planning”  was accepted for publication in  IEEE Access! 
