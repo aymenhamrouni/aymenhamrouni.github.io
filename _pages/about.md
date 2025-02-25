@@ -24,7 +24,7 @@ I received the Diplome d’Ingenieur degree (summa cum laude) in telecommunicati
 
 <h1 id="whats-new"><span style="color:red">What’s New ?</span></h1>
 <ul>
-     <li><span style="color:green">2024.09. AoI in Context-Aware Hybrid Radio-Optical Networks has been accepted for publication in the IEEE Global Communications Conference 2024.</span></li>
+     <li><span style="color:green">2024.09.  Our paper "AoI in Context-Aware Hybrid Radio-Optical Networks" has been accepted for publication in the IEEE Global Communications Conference 2024.</span></li>
 
    <li>2024.05. My application was approved for another year in the AWS Community Builders program!</li>
    <li>2024.02. I started my Ph.D. within the WaveCore group at KU Leuven!</li>
