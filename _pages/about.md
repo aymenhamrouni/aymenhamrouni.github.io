@@ -56,8 +56,8 @@ I received the Diplome d’Ingenieur degree (summa cum laude) in telecommunicati
 <li>2019.09. Our paper “A Stochastic Team Formation Approach for Collaborative Mobile Crowdsourcing”  was accepted for publication in  2019 31st International Conference on Microelectronics (ICM)!</li>    
 <li>2019.06. Our paper “A Photo-Based Mobile Crowdsourcing Framework for Event Reporting”  was accepted for publication in  2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS'19)!</li>
 <li>2019.02. I started a new role as a Research Intern at Stevens Institute of Technology, Hoboken, NJ, USA in the Systems Engineering Department!</li>
-<li><strong>2016.09. I have received an excellence scholarship to pursue my engineering studies at the prestigious Higher School of Communication of Tunis (SUP'COM)! </strong></li> 
-<li>2016.02. I have successfully passed the national entrance examination for admission to graduate training for engineers in Tunisia. I was ranked 99 nationwide among ~ 1700 total test takers. May the future be brighter! </li>
+<li><strong>2016.09. I received a scholarship to pursue my B. Eng in Telecommunication at the Higher School of Communication of Tunis (SUP'COM)! </strong></li> 
+
 
 
  
