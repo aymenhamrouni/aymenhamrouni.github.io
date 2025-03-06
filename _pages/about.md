@@ -18,7 +18,7 @@ TCSS, IEEE Access, IEEE Communication Letters, etc." />
 
 <h1 id="bio-graphy">Biography</h1>
 <div style="text-align: justify;">
-I received the Diplome d’Ingenieur degree (summa cum laude) in telecommunication engineering from the Ecole Superieure des Communications de Tunis (SUP’COM), Tunis, Tunisia, in 2019 and the Masters in Electrical and Computer Engineering (Hons.) from the King Abdullah University of Science and Technology (KAUST). I am now pursuing a Ph.D. in Electrical Engineering Within <a href="https://www.esat.kuleuven.be/wavecorearenberg/Home">WaveCore Arenberg</a> at KU LEUVEN, Leuven, Belgium.
+I received the Diplome d’Ingenieur degree (summa cum laude) in telecommunication engineering from the Ecole Superieure des Communications de Tunis (SUP’COM), Tunis, Tunisia, in 2019 and the Masters in Electrical and Computer Engineering (Hons.) from the King Abdullah University of Science and Technology (KAUST). I am now pursuing a Ph.D. in Electrical Engineering within <a href="https://www.esat.kuleuven.be/wavecorearenberg/Home">WaveCore Arenberg</a> at KU LEUVEN, Leuven, Belgium.
 <h1 id="research-interests">Research Interests</h1>
 <div style="text-align: justify;">Artifical Intelligence, Optimization, and Internet-of-Things.</div>
 
